@@ -5,7 +5,7 @@
 <h2>Functionality</h2>
 <h3>Type the city you want to find the weather data of and see the results.</h3>
 
-
+<a href="https://weather-app-botvasu.netlify.app">Live On</a>
 ![image](https://github.com/BotVasu/Weather-App/assets/83164321/d5226271-d655-4426-bfd7-a62fd5d678ae)
 
 
